@@ -51,7 +51,7 @@ pip install -r requirements.txt
 
 1️⃣ Clone this repository:
 ```bash
-git clone https://github.com/your-username/real-time-webcam-prediction.git
+git clone https://github.com/yashpalsince2004/Real-time_Prediction_using_Webcam..git
 cd real-time-webcam-prediction
 ```
 
